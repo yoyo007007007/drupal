@@ -4,16 +4,7 @@
 <div class="cl">&nbsp;</div>
 		<div id="navigation">
 			<ul>
-			    <li>
-			    	<a href="index.php"><span>首页</span></a>
-			    </li>
-			    <li>
-			    	<a href="about.php"><span>关于我们</span></a>
-			    	<ul>
-			    		<li><a href="about.php">公司简介</a></li>
-			    		<li><a href="team.php">团队介绍</a></li>
-			    	</ul>
-			    </li>
+			    
 			    <li>
 			    	<a href="service.php"><span>精品服务</span></a>
 			    	<ul>
