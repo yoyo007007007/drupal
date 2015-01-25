@@ -6,9 +6,12 @@
 			<ul>
 			    <li>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			  
 			    
 =======
+=======
+>>>>>>> parent of 4e7a5b2... ttt
 			    	<a href="index.php"><span>首页</span></a>
 			    </li>
 			    <li>
