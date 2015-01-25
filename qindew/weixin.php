@@ -5,22 +5,7 @@
 		<div id="navigation">
 			<ul>
 			    <li>
-			    	<a href="index.php"><span>首页</span></a>
-			    </li>
-			    <li>
-			    	<a href="about.php"><span>关于我们</span></a>
-			    	<ul>
-			    		<li><a href="about.php">公司简介</a></li>
-			    		<li><a href="team.php">团队介绍</a></li>
-			    	</ul>
-			    </li>
-			    <li>
-			    	<a href="service.php"><span>精品服务</span></a>
-			    	<ul>
-			    		<li><a href="service.php">Java精品课</a></li>
-			    		<li><a href="service.php">物联网金融技术</a></li>
-			    		<li><a href="service.php">高端职业规划</a></li>
-			    	</ul>
+			  
 			    </li>
 			    <li>
 			    	<a href="#"><span>团队支持</span></a>			    	
