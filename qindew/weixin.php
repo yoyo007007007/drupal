@@ -6,11 +6,7 @@
 			<ul>
 			    <li>
 			  
-			    </li>
-			    <li>
-			    	<a href="#"><span>团队支持</span></a>			    	
-			    </li>
-			    <li>
+			    
 			    	<a href="" class="active"><span>联系我们</span></a>
 			    	<ul>
 			    		<li><a href="contact.php">联系我们</a></li>
